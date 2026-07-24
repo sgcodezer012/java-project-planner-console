@@ -49,7 +49,6 @@ Each task has:
 │  ├── [ model ]
 │    ├── Project.java
 │    ├── Task.java
-│    ├── TaskSchedule.java
 │    └── TaskStatusEnum.java
 │  ├── [ service ]
 │    ├── InputService.java
