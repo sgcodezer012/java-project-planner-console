@@ -1,0 +1,19 @@
+plugins {
+	id 'java'
+}
+
+group = 'com.sg.project.plan'
+version = '0.0.1-SNAPSHOT'
+description = 'Project Planner'
+
+
+java {
+	toolchain {
+		languageVersion = JavaLanguageVersion.of(25)
+	}
+}
+
+repositories {
+	mavenCentral()
+}
+
